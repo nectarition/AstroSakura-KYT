@@ -1,3 +1,4 @@
 # AstroSakura-KYT
 
-Contents management repository: [SakuraContent](https://github.com/nectarition/SakuraContent)
+Based style: [AstroSakura](https://github.com/nectarition/AstroSakura)
+Content: [SakuraContent](https://github.com/nectarition/SakuraContent)
