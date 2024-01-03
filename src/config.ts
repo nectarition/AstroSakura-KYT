@@ -2,7 +2,7 @@ const config = {
   siteUrl: 'https://kohatabe.jp',
   copyright: {
     year: 2021,
-    author: 'Nectarition'
+    author: 'ねくたりしょん'
   },
   event: {
     name: '小春六花はヨーグルトが食べたい',
