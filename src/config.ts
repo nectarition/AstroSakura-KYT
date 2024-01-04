@@ -6,9 +6,9 @@ const config = {
   },
   event: {
     name: '小春六花はヨーグルトが食べたい',
-    date: '2023-06-18',
-    place: '池袋サンシャインシティ',
-    content: '小春六花プチオンリーイベント',
+    date: '2024-07-21',
+    place: 'そうぞうパレッツ',
+    content: '小春六花オンリー同人誌即売会',
     twitterId: 'nct_kohatabe'
   }
 }
