@@ -10,7 +10,8 @@ const config = {
     place: '名古屋・ポートメッセなごや',
     content: '小春六花オンリー同人誌即売会',
     twitterId: 'nct_kohatabe'
-  }
+  },
+  shouldShowNectaritionLogo: true
 }
 
 export default config
