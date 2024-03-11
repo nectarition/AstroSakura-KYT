@@ -1,5 +1,5 @@
 const config = {
-  siteUrl: 'https://kytdraft.nrsy.jp',
+  siteUrl: 'https://kohatabe.jp',
   copyright: {
     year: 2021,
     author: 'ねくたりしょん'
